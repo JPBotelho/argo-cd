@@ -205,7 +205,7 @@ git clone https://git.example.com/owner/repo.git
 cd repo
 
 # Build the image and get the new image tag
-# <cusom build logic here>
+# <custom build logic here>
 
 # Get the commit information
 author=$(git show -s --format="%an <%ae>")
